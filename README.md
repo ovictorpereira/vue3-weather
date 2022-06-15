@@ -8,7 +8,7 @@
 - SCSS
 ----
 
-![Screenshot](assets/img/screen.png)
+![Screenshot](src/assets/img/screen.png)
 
 ----
 
