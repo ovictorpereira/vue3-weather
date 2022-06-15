@@ -11,6 +11,9 @@
 ![Screenshot](src/assets/img/screen.png)
 
 ----
+Weather source: https://openweathermap.org/
+Open Weather Map API Key variable imported in a .env file (VITE_APIKEY)
+----
 
 ## Project Setup
 

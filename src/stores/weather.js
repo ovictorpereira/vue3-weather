@@ -7,7 +7,7 @@ export const useWeatherStore = defineStore({
     loading: false,
     error: null,
     location: null,
-    weatherApiKey: '4b4247040abb7a515be194671a6e72f4',
+    weatherApiKey: import.meta.env.VITE_APIKEY,
     currentWeather: null
   }),
   actions: {
